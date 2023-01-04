@@ -2144,20 +2144,23 @@ span.error {
   width: 400px !important;
 }
 .section-counter{
-  background-color: #8cba51;
+  background-color: #e2e4e5
  
 }
 .whysandeep-counter {
-  background-color: #000;
+  background-color: #212f3a;
 
 }
 
 .card{
-  border-radius: 10px !important;
+  border-radius: 12px !important;
 }
 .card .btn{
   background: transparent;
   color: rgb(15, 87, 155);
+  padding-top: 15px;
+  padding-bottom: 10px;
+  
 }
 .card-img-top {
   height: 50px;
@@ -2165,6 +2168,18 @@ span.error {
   border-radius: 50%;
 }
 .card-header {
-  background-color: #000000;
-height: 20px;
+  background-color: #38434f;
+  height: 20px;
+}
+.btn-profile {
+margin-left: -35px;
+}
+.in-text{
+  background-color: rgb(244, 249, 244);
+  color: #38434f;
+  font-weight: 800;
+  padding-left: 3px;
+  padding-right: 3px;
+
+  border-radius: 3px;
 }
